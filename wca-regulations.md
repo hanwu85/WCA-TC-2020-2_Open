@@ -519,22 +519,22 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
     
 ## <article-Y><temporary-regulations><temporaryregulations> 附則 Y: 臨時規則
 
-- Y1) Additional regulations that supersede all other regulations are described below. These regulations are meant to complement the [Competition Safety Policy](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Safety.pdf).
-- Y2) Definitions:
-    - Y2a) Attendee: Any person who attends a WCA Competition, including competitors, officials and guests.
-    - Y2b) Fixed seating: A competition method in which a competitor does all of their attempts in a round at the same solving station.
-- Y3) Besides what is required in [Regulation 2a](regulations:regulation:2a), if deemed necessary by the WCA Delegate and announced clearly before the competition, an attendee may be required to meet one or more of the following requirements:
-    - Y3a) Wear a face mask inside the competition venue.
-    - Y3b) Not to have come in contact with a person with COVID-19 for at least 14 days before the competition.
-    - Y3c) Not to have COVID-19 nor to feel COVID-19 symptoms (as determined by the [World Health Organization](https://www.who.int/)) for at least 14 days before the competition.
-    - Y3d) Comply with other reasonable safety measures sanctioned by the World Health Organization or by local governments.
-- Y4) All competitors and officials should bring their own pen to the competition.
-- Y5) Judges may bring their own stopwatch or phone for timing inspection, which should be checked by the WCA Delegate.
-- Y6) Environment:
-    - Y6a) If deemed necessary by the WCA Delegate, the competition area must not have a Competitors Area.
-    - Y6b) Competitors should refrain from touching the surface of the solving station when they are not in the process of an official attempt.
-- Y7) Competing procedures that supersede [Article A](regulations:article:A), [B](regulations:article:B), and [H](regulations:article:H) are described below. These procedures do not apply to [Article E](regulations:article:E), Fewest Moves Solving.
-    - Y7a) Competitions should use fixed seating (see [Regulation Y2b](regulations:regulation:Y2b)).
+- Y1) 額外且取代其他規則的部分描述在以下內容。這些規則是用來補充[比賽安全政策](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Safety.pdf)。
+- Y2) 定義：
+    - Y2a) 參加者：所有參加WCA比賽的人員，包含參賽者，工作人員，以及陪同者。
+    - Y2b) 固定座位：在同一輪中，參賽者在同一個還原區域，完成所有五次還原的一種比賽方式。
+- Y3) 除了[規則 2a](regulations:regulation:2a)所要求以外, 如果WCA代表覺得有需要，並且在比賽前清楚公布，參加者可以被要求要符合以下一個或多個條件：
+    - Y3a) 在比賽場館內配戴口罩。
+    - Y3b) 比賽前14天內沒有和新冠肺炎（COVID-19）患者有接觸。
+    - Y3c) 比賽前14天內沒有患上新冠肺炎（COVID-19），或是出現新冠肺炎（COVID-19）症狀（由[WHO世界衛生組織](https://www.who.int/)所定義）。
+    - Y3d) 遵守其他由WHO世界衛生組織或是當地政府所認可的合理安全措施。
+- Y4) 比賽的所有參賽者和工作人員應該要攜帶自己的筆。
+- Y5) 裁判可以攜帶自己的碼表或是手機來計時觀察時間，自己攜帶的裝置應該要讓WCA代表檢查。
+- Y6) 環境：
+    - Y6a) 如果WCA代表認為有需要，比賽區域禁止有參賽者預備區。
+    - Y6b) 當參賽者不是在正式還原時，參賽者應該盡量避免碰觸還原區域的桌面。
+- Y7) 取代 [附則 A](regulations:article:A)、[附則 B](regulations:article:B)、[附則 H](regulations:article:H)的比賽程序在底下描述。 這些程序不適用 [附則 E](regulations:article:E)最少步數解。
+    - Y7a) 比賽應該使用固定座位(參見[附則 Y2b](regulations:regulation:Y2b))。
     - Y7b) The judge should avoid touching the puzzle at all times. Exception: for Clock, the judge should pick up the puzzle to verify both faces are solved.
     - Y7c) Scrambling:
         - Y7c1) When called for a round, after disinfecting their puzzles, the competitor submits the puzzle, in its solved state, to the scrambler. The competitor then waits at their assigned solving station.
