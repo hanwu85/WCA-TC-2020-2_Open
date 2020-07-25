@@ -1,6 +1,6 @@
 # <wca-title>WCA 競賽規則
 
-<version>版本：2020年1月1日
+<version>版本：2020年8月1日
 
 
 ## 註釋
@@ -61,7 +61,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
 
 ## <article-2><competitors><competitors> 第2章：參賽者
 
-- 2a) 任何人都可以參加WCA比賽，只要他們：
+- 2a) 任何人都可以參加WCA比賽，只要他們符合以下內容（以及[規則 Y3](regulations:regulation:Y3)所補充的內容）：
     - 2a1) 遵守WCA競賽規則。
     - 2a2) 符合所有比賽條件，比賽條件必須要在賽前清楚地公告。
     - 2a3) 沒有被WCA董事會禁賽。
@@ -95,7 +95,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
     - 2k1) 未能準時報名或報到。
     - 2k2) 疑似在比賽中作弊或是欺騙工作人員。
         - 2k2a) WCA代表可以判定可疑的成績無效。
-    - 2k3) 參賽者做出非法、暴力、猥褻的行為；或在比賽場地內蓄意破壞場地設施或是他人財物。
+    - 2k3) 參賽者做出非法、暴力、猥褻、不安全的行為；或在比賽場地內蓄意破壞場地設施或是他人財物。
     - 2k4) 在比賽當中擾亂他人注意力或是影響他人。
     - 2k5) 在比賽中無法遵守WCA競賽規則。
     - 2k6) 如果參賽者無法達成比賽項目基本要（例如：知道如何還原該方塊），參賽者禁止以故意DNF或是故意比出爛成績的心態來參賽。
@@ -204,7 +204,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
         - 7f1d) 桌面：Stackmat所置放的平面。墊子視為桌面的一部分。計時器不被視為桌面的一部分。
     - 7f2) Stackmat計時器必須要連接在墊子上且放置在桌面上，計時器在最靠近參賽者的那一邊。
     - 7f3) 主辦團隊應該要改造Stackmat計時器，讓它不容易產生小意外，如降低意外按到按鈕的可能性(例如：在按鈕週圍加上O型環)，讓電池更牢固(例如在電池旁加上墊子)。
-- 7h) 比賽區域中必須要有至少一個參賽者預備區。
+- 7h) 比賽區域中必須要有至少一個參賽者預備區（由[規則 Y6a](regulations:regulation:Y6a)取代）。
     - 7h1) 主辦團隊可以要求被唱名到的參賽者待在參賽者預備區直到他們完全結束該輪的所有還原。
 
 
@@ -299,7 +299,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
     - 11e3) 如果尚未確定某意外事件是否應給予額外的還原機會，參賽者可以先獲得臨時的額外還原機會。等最終判決出來後再確定是否採用這次額外還原機會的成績（例如：WCA規則委員會的判決）。
 - 11f) 對於意外事件所做的決定，WCA代表可以依據影片或照片的分析來做判斷。
 - 11g) WCA代表必須確保比賽時有競賽規則和指導方針來參照（例如：印刷紙本，電子檔，或經由網路查詢）。
-
+- 11h) 在考慮情況嚴重性以及最佳的處理辦法後，WCA代表可以要求嚴重違反[規則 2k3](regulations:regulation:2k3)的參賽者離開比賽場館。如果參賽者拒絕離開，WCA可以對參賽者採取紀律處分。
 
 ## <article-12><notation><notation> 第12章：轉動代號
 
@@ -349,7 +349,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
 
 ## <article-A><speedsolving><speedsolving> 附則 A：速解
 
-- A1) 以速解為目標的比賽還原必須要遵守以下流程：
+- A1) 以速解為目標的比賽還原必須要遵守以下流程（部分內容由[規則 Y7](regulations:regulation:Y7)取代）：
     - A1a) 主辦團隊必須對每一輪做出時間限制（各次還原時間或每一輪時間總和）。
         - A1a1) 一般默認的單次還原時間限制是10分鐘，但主辦團隊可以公告較久或較短的時間限制。某一輪中的每一次還原時間限制都要相同。
         - A1a2) 最少步數解和3x3x3多顆盲解以外的比賽項目，主辦團隊可以採用總時間限制，總時間限制必須適用於一輪中所有的還原（例如：3次還原的時間加起來須低於20分鐘），或是不同比賽項目所有還原的時間總和。在這情況下，某一次還原的時間限制就是總時間限制減掉已用掉的還原時間總和參見[規則 A1a5](regulations:regulation:A1a5)。若某一輪比賽有總時間限制，必須只有一種總時間限制。
@@ -373,7 +373,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
 - A3) 觀察：
     - A3a) 每一次還原開始時，參賽者可以觀察方塊。
         - A3a1) 參賽者最多有15秒的觀察時間並開始還原方塊。
-    - A3b) 必要時，裁判將計時器開啟且歸零。另外，裁判需準備碼錶紀錄觀察時間。
+    - A3b) 必要時，裁判將計時器開啟且歸零。另外，裁判需準備碼錶紀錄觀察時間（部分內容由[規則 Y7d1](regulations:regulation:Y7d1)取代）。
         - A3b1) 當裁判認為參賽者準備完畢時，此時裁判會詢問說「準備好了嗎？(Ready?)」。參賽者必須要在被詢問以後1分鐘內準備完畢，否則參賽者失去此次還原機會（DNS），由裁判決定。
         - A3b2) 當參賽者表示準備好後，裁判將方塊上的蓋子移除，裁判同時啟動碼錶計時。
     - A3c) 在觀察階段，參賽者可以拿起方塊。
@@ -418,7 +418,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
         - A7a3) 如果結果是DNF，裁判說出「DNF」。
     - A7b) 裁判在成績單上寫下成績並在成績旁邊簽名以確認成績正確、格式正確，且容易辨認。
         - A7b1) 當有處罰時，裁判寫下計時器上的時間，並在旁邊寫下處罰。格式應該為「X + T + Y = F」，X是開始還原方塊前的總加時處罰，T是計時器顯示的時間（原始時間），Y是還原方塊時與完成後的總加時處罰，F是最後結果成績（例如：2 + 17.65 + 2 = 21.65）。如果X和/或Y是0的話，可以不用寫（例如：17.65 + 2 = 19.65）。
-    - A7c) 參賽者必須確認成績單上的成績，並在成績單上簽名或縮寫表示承認成績結果。則此次還原結束。
+    - A7c) 參賽者必須確認成績單上的成績，並在成績單上簽名或縮寫表示承認成績結果。則此次還原結束（部分內容由[規則 Y7e1](regulations:regulation:Y7e1)取代）。
         - A7c1) 如果參賽者或是裁判拒絕在成績單上簽名，WCA代表必須要解決爭議。
         - A7c2) 如果參賽者還沒開始還原前就簽名（或做其他記號），此還原將被判為DNS。
         - A7c3) 如果參賽者在還原開始後且在裁判記錄成績前就簽名（或做其他記號），判定該次還原未完成（DNF）。
@@ -429,11 +429,11 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
 
 ## <article-B><blindfolded><blindfoldedsolving> 附則 B：盲解
 
-- B1) 標準速解流程如同[附則 A](regulations:article:A)（速解）。相異且優先於[附則 A](regulations:article:A)的流程如下：
+- B1) 標準速解流程如同[附則 A](regulations:article:A)（速解）。相異且優先於[附則 A](regulations:article:A)的流程如下（部分內容由[規則 Y7](regulations:regulation:Y7)取代）：
     - B1a) 沒有觀察階段。
     - B1b) 參賽者需自備眼罩。
 - B2) 開始還原：
-    - B2a) 裁判將計時器和/或碼錶歸零並根據[規則 A3b1](regulations:regulation:A3b1)並示意裁判已準備等待參賽者開始還原（例如：將遮蔽住的方塊擺放到參賽者前面並說「準備好了(Ready)」，並同時豎起大拇指）。參賽者必須在雙方示意完成後的1分鐘內開始還原，否則參賽者失去此次還原機會（DNS），由裁判決定。
+    - B2a) 裁判將計時器和/或碼錶歸零並根據[規則 A3b1](regulations:regulation:A3b1)並示意裁判已準備等待參賽者開始還原（例如：將遮蔽住的方塊擺放到參賽者前面並說「準備好了(Ready)」，並同時豎起大拇指）。參賽者必須在雙方示意完成後的1分鐘內開始還原，否則參賽者失去此次還原機會（DNS），由裁判決定（部分內容由[規則 Y7d1](regulations:regulation:Y7d1)取代）。
     - B2b) 參賽者用手指碰觸計時器感應區。參賽者的掌心必須向下，並在靠近參賽者那一側的計時器側邊。處罰：加罰時間（+2秒）。
     - B2c) 在每一次還原開始之前，參賽者不能碰觸方塊。處罰：加罰時間（+2秒）。
     - B2d) 開始的方式為參賽者把雙手移開計時器（同時開始計時）。
@@ -507,7 +507,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> 附則 H：多顆盲解
 
-- H1) 標準盲解流程如同[附則 B](regulations:article:B)（盲解）。相異且優先於[附則 B](regulations:article:B)的流程如下：
+- H1) 標準盲解流程如同[附則 B](regulations:article:B)（盲解）。相異且優先於[附則 B](regulations:article:B)的流程如下（部分內容由[規則 Y7](regulations:regulation:Y7)取代）：
     - H1a) 參賽者必須要在每一次還原開始前提交主辦團隊這一次還原盲解方塊的顆數（至少兩顆）。
         - H1a1) 當參賽者提交主辦團隊要還原的方塊顆數後，就不允許改變方塊顆數。
         - H1a2) 參賽者可以要求將還原的方塊顆數保密，直到所有參賽者都提交顆數完畢。一旦所有參賽者皆告知了方塊顆數，則資訊即可公開（例如：參賽者可以在開始還原之前詢問其他參賽者的方塊顆數）。
@@ -515,3 +515,32 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
     - H1b) 如果還原的顆數少於六顆，參賽者的比賽時間限制為10分鐘乘上該次還原的方塊顆數，除此之外，時間限制皆為60分鐘。
         - H1b1) 參賽者可以隨時示意還原結束。當時間限制達到時，裁判停止參賽者的還原，並記錄下成績，該次還原的時間限制記錄為比賽成績的時間。
     - H1d) 方塊的加時處罰是累積制的。
+    
+    
+## <article-Y><temporary-regulations><temporaryregulations> 附則 Y: 臨時規則
+
+- Y1) Additional regulations that supersede all other regulations are described below. These regulations are meant to complement the [Competition Safety Policy](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Safety.pdf).
+- Y2) Definitions:
+    - Y2a) Attendee: Any person who attends a WCA Competition, including competitors, officials and guests.
+    - Y2b) Fixed seating: A competition method in which a competitor does all of their attempts in a round at the same solving station.
+- Y3) Besides what is required in [Regulation 2a](regulations:regulation:2a), if deemed necessary by the WCA Delegate and announced clearly before the competition, an attendee may be required to meet one or more of the following requirements:
+    - Y3a) Wear a face mask inside the competition venue.
+    - Y3b) Not to have come in contact with a person with COVID-19 for at least 14 days before the competition.
+    - Y3c) Not to have COVID-19 nor to feel COVID-19 symptoms (as determined by the [World Health Organization](https://www.who.int/)) for at least 14 days before the competition.
+    - Y3d) Comply with other reasonable safety measures sanctioned by the World Health Organization or by local governments.
+- Y4) All competitors and officials should bring their own pen to the competition.
+- Y5) Judges may bring their own stopwatch or phone for timing inspection, which should be checked by the WCA Delegate.
+- Y6) Environment:
+    - Y6a) If deemed necessary by the WCA Delegate, the competition area must not have a Competitors Area.
+    - Y6b) Competitors should refrain from touching the surface of the solving station when they are not in the process of an official attempt.
+- Y7) Competing procedures that supersede [Article A](regulations:article:A), [B](regulations:article:B), and [H](regulations:article:H) are described below. These procedures do not apply to [Article E](regulations:article:E), Fewest Moves Solving.
+    - Y7a) Competitions should use fixed seating (see [Regulation Y2b](regulations:regulation:Y2b)).
+    - Y7b) The judge should avoid touching the puzzle at all times. Exception: for Clock, the judge should pick up the puzzle to verify both faces are solved.
+    - Y7c) Scrambling:
+        - Y7c1) When called for a round, after disinfecting their puzzles, the competitor submits the puzzle, in its solved state, to the scrambler. The competitor then waits at their assigned solving station.
+    - Y7d) Inspection:
+        - Y7d1) The judge asks the competitor to prepare the timer by turning it on and resetting if necessary. The competitor then turns the timer on and resets it if necessary. The judge should avoid touching the timer at all times.
+    - Y7e) Recording results:
+        - Y7e1) The competitor must check the recorded result, and sign (or initial) the score sheet with their own pen to acknowledge that the result is correct, complete, properly formatted, and clearly readable. This finishes the attempt.
+        - Y7e2) The competitor should not touch the score sheet.
+    - Y7f) After finishing the attempt, if there are more attempts to be done, the competitor must place the puzzle inside the cover.
