@@ -534,13 +534,13 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
     - Y6a) 如果WCA代表認為有需要，比賽區域禁止有參賽者預備區。
     - Y6b) 當參賽者不是在正式還原時，參賽者應該盡量避免碰觸還原區域的桌面。
 - Y7) 取代 [附則 A](regulations:article:A)、[附則 B](regulations:article:B)、[附則 H](regulations:article:H)的比賽程序在底下描述。 這些程序不適用 [附則 E](regulations:article:E)最少步數解。
-    - Y7a) 比賽應該使用固定座位(參見[附則 Y2b](regulations:regulation:Y2b))。
-    - Y7b) The judge should avoid touching the puzzle at all times. Exception: for Clock, the judge should pick up the puzzle to verify both faces are solved.
-    - Y7c) Scrambling:
-        - Y7c1) When called for a round, after disinfecting their puzzles, the competitor submits the puzzle, in its solved state, to the scrambler. The competitor then waits at their assigned solving station.
-    - Y7d) Inspection:
-        - Y7d1) The judge asks the competitor to prepare the timer by turning it on and resetting if necessary. The competitor then turns the timer on and resets it if necessary. The judge should avoid touching the timer at all times.
-    - Y7e) Recording results:
-        - Y7e1) The competitor must check the recorded result, and sign (or initial) the score sheet with their own pen to acknowledge that the result is correct, complete, properly formatted, and clearly readable. This finishes the attempt.
-        - Y7e2) The competitor should not touch the score sheet.
-    - Y7f) After finishing the attempt, if there are more attempts to be done, the competitor must place the puzzle inside the cover.
+    - Y7a) 比賽應該使用固定座位（參見[附則 Y2b](regulations:regulation:Y2b)）。
+    - Y7b) 裁判應該無時無刻避免碰觸方塊。例外：對於Clock魔錶，裁判應該要拿起來確認兩面都已經解完。
+    - Y7c) 轉亂：
+        - Y7c1) 當在該輪被叫到名字時，參賽者將解好的方塊消毒後交給轉亂員。接著參賽者在指定的還原區域等待。
+    - Y7d) 觀察：
+        - Y7d1) 如果必要，裁判請參賽者開啟計時器並歸零來讓計時器準備妥當。如果必要，參賽者開啟計時器並歸零。裁判應該無時無刻避免碰觸計時器。
+    - Y7e) 成績記錄：
+        - Y7e1) 參賽者必須確認成績單上的成績，使用自己的筆在成績單上面簽名（或縮寫）以確認成績正確、格式正確，且容易辨認。此次還原結束。
+        - Y7e2) 參賽者不應該碰觸成績單。
+    - Y7f) 如果結束的還原並非該輪最後一次還原，參賽者必須將方塊放進蓋子。
